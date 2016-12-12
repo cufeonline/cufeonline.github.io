@@ -1,0 +1,32 @@
+# Site settings
+name: 中财在线
+description: "中财在线网站由MoorStudio管理，请邮件联系我们"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+
+email: hello@moorstudio.cn
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
